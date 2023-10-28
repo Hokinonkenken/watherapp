@@ -29,7 +29,7 @@
     top: 1px;
 }
 
-#button>Press me> {
+#button{
     display: block;
     width:150px;
     margin:10px auto;
